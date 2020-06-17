@@ -1,0 +1,11 @@
+spring:
+  main:
+    banner-mode: off
+server:
+  port: 5000
+
+logging:
+  level:
+    root: INFO
+    org.springframework.web: INFO
+    org.springframework.security: INFO
